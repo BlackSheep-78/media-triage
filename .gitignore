@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and runtime
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Config files (if generated locally)
+config.json
+
+# Virtual environment
+venv/
+env/
+
+# Mac and Windows clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode and IDE configs
+.vscode/
+.idea/
+
+# Test artifacts
+coverage/
+*.cover
+*.py,cover
+
+# Compiled Cython files
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
