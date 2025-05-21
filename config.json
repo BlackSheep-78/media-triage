@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "project": "Media Triage",
+    "file": "config.json",
+    "description": "Configuration for triage paths, limits, and Python runtime",
+    "author": "Jorge (Blacksheep)",
+    "created": "2025-05-20"
+  },
+  "python_path": "C:/Users/jorge/AppData/Local/Programs/Python/Python313/python.exe",
+  "triage_script": "triage.py",
+  "log_file": "C:/Media/triage.log",
+  "inbox_path": "C:/Media/INBOX",
+  "max_in_root": 10,
+  "max_per_folder": 100,
+  "max_folders": 100
+}
